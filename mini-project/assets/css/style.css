@@ -1,0 +1,44 @@
+body{
+    padding: 100px;
+}
+
+section{
+    background-color:#BEF5E6 ;
+}
+
+header{
+    background-color:#1AC9D6;
+}
+
+footer{
+    background-color: #6FD6D1;
+}
+
+h1{
+    font-family: cursive;
+    text-align: left;
+}
+
+.nav-ul{
+    list-style-type: none;
+    text-align: right;
+}
+.nav-li{
+    display: inline;
+    font-family: cursive;
+    padding: 5px;
+}
+.section-text-area{
+    text-align: center;
+}
+
+.text-area-ul{
+    list-style-type: none;
+}
+
+
+
+
+
+
+
